@@ -19,10 +19,10 @@ I'm continuously exploring different areas of technology through hands-on learni
 - Continuously explore and improve.
 
 ### 📚 Learning Journeys
-- [SEO Learning Journey]()
+- [SEO Learning Journey](https://github.com/ehsanmumtaz/seo-learning-journey)
 - [AI Automation Journey]()
 
 ### 🤝 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/muhammad-ehsan-mumtaz-9a4483373/
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ehsan-mumtaz-9a4483373/)
 
 *Learning continuously. Building consistently. Improving every day.*
