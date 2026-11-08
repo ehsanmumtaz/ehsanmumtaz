@@ -20,7 +20,7 @@ I'm continuously exploring different areas of technology through hands-on learni
 
 ### 📚 Learning Journeys
 - [SEO Learning Journey](https://github.com/ehsanmumtaz/seo-learning-journey)
-- [AI Automation Journey]()
+- [AI Automation Journey](https://github.com/ehsanmumtaz/ai-automation-journey)
 
 ### 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ehsan-mumtaz-9a4483373/)
